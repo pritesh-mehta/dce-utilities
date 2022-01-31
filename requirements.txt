@@ -1,0 +1,6 @@
+dicom2nifti
+argparse
+numpy
+pathlib
+nibabel
+
